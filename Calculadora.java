@@ -22,6 +22,7 @@ public class Calculadora {
             case 3:
                 System.out.println(numero1 * numero2);
             break;
+            //ejemplo de uso de fetch
         }
        }catch (Exception e){
         System.out.println(e);
