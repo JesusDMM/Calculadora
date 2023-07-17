@@ -18,6 +18,7 @@ public class Calculadora {
             case 2:
                 System.out.println(numero1 - numero2);
             break;
+            //agregar un case de multiplicacion
         }
        }catch (Exception e){
         System.out.println(e);
